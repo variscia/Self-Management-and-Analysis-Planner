@@ -50,6 +50,6 @@ Header Descriptions :
 ![Alt Text](http://g.recordit.co/TloFMOMfI2.gif)
 
 ## Display Menu
-![Alt Text](http://g.recordit.co/PSaD64mCVa.gif)
+![Alt Text](http://g.recordit.co/kGDBowua0T.gif)
 
 
