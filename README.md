@@ -20,7 +20,7 @@ Compile this code from Main Code
 * [Main Code](#main-code)
 
 ## Main Code :
-
+![Alt Text](http://g.recordit.co/RsTa2yu3os.gif)
 Header Descriptions :
 1) main.c = contains the main menu of the program
 2) menu.h = contains all menus of the program
