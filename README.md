@@ -31,6 +31,15 @@ Header Descriptions :
 7) deleteMenu.h = contains the program code for deleting the plans
 8) countRead.h = contains the program code to read all the files used in the program
 
+## countRead
+![Alt Text](http://g.recordit.co/iFTi002IQL.gif)
+
+## Declaration
+![Alt Text](http://g.recordit.co/vfIILjxmn9.gif)
+
+## Menu
+![Alt Text](http://g.recordit.co/oTrEGHavL8.gif)
+
 ## Add Menu
 ![Alt Text](http://g.recordit.co/PmA8vLvft0.gif)
 
@@ -39,3 +48,8 @@ Header Descriptions :
 
 ## Delete Menu
 ![Alt Text](http://g.recordit.co/TloFMOMfI2.gif)
+
+## Display Menu
+![Alt Text](http://g.recordit.co/PSaD64mCVa.gif)
+
+
