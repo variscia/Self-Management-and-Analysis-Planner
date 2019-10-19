@@ -7,6 +7,7 @@ This program is the answer to help your daily life structured and well-managed.
 * [General Info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Team](#team)
 
 ## General Info
 This program use basic C language.
@@ -52,4 +53,6 @@ Header Descriptions :
 ## Display Menu
 ![Alt Text](http://g.recordit.co/kGDBowua0T.gif)
 
-
+## Team
+* Ariq Mahira (1806187575)
+* Variscia Putri (1806228316)
