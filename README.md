@@ -16,13 +16,13 @@ This program is created with :
 * Code::Block version 17.12
 
 ## Setup
-Compile this code from Main Code (main.c)
+Compile this code from Main Code
 * [Main Code](#main-code)
 
-## Main Code :
+## Main Code
 ![Alt Text](http://g.recordit.co/RsTa2yu3os.gif)
 Header Descriptions :
-1) main.c = contains the main menu of the program (Complie Here)
+1) main.c = contains the main menu of the program
 2) menu.h = contains all menus of the program
 3) declaration.h = contains declaration of modular program, plan count of each day, and struct used in the other header
 4) displayPlans.h = contains the program code for displaying the plans
@@ -30,3 +30,12 @@ Header Descriptions :
 6) editMenu.h = contains the program code for modifying the content of the plans
 7) deleteMenu.h = contains the program code for deleting the plans
 8) countRead.h = contains the program code to read all the files used in the program
+
+## Add Menu
+![Alt Text](http://g.recordit.co/PmA8vLvft0.gif)
+
+## Edit Menu
+![Alt Text](http://g.recordit.co/ShEaTCrui9.gif)
+
+## Delete Menu
+![Alt Text](http://g.recordit.co/TloFMOMfI2.gif)
