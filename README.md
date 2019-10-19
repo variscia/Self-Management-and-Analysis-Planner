@@ -13,7 +13,7 @@ This program use basic C language.
 
 ## Technologies
 This program is created with :
-Code::Block version 17.12
+* Code::Block version 17.12
 
 ## Setup
 Compile this code from Main Code
