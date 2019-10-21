@@ -62,3 +62,10 @@ Consists the code for displaying the plan, it is printed in tabular format and u
 ## Team
 * Ariq Mahira (1806187575)
 * Variscia Putri (1806228316)
+
+## References
+* https://www.codewithc.com/mini-project-in-c-personal-diary-management-system/
+* https://fresh2refresh.com/c-programming/c-file-handling/
+* https://fresh2refresh.com/c-programming/c-passing-struct-to-function/
+* https://www.codingame.com/playgrounds/14213/how-to-play-with-strings-in-c/array-of-c-string
+* https://overiq.com/c-programming-101/array-of-strings-in-c/
