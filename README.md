@@ -34,12 +34,14 @@ Header Descriptions :
 
 ## countRead
 ![Alt Text](http://g.recordit.co/iFTi002IQL.gif)
+Its functions to read all the .dat files of count and plan files of each day. the program run at the start of main program.
 
 ## Declaration
 ![Alt Text](http://g.recordit.co/vfIILjxmn9.gif)
-
+Declaration consists of plan struct that has the content of the plan, declaration of other modular program, and the count variables.
 ## Menu
 ![Alt Text](http://g.recordit.co/oTrEGHavL8.gif)
+Consists of every menu used in the program except the main menu. the menu redirects the user input to another modular program.
 
 ## Add Menu
 ![Alt Text](http://g.recordit.co/PmA8vLvft0.gif)
