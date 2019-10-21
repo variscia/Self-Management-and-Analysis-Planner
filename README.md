@@ -45,15 +45,19 @@ Consists of every menu used in the program except the main menu. the menu redire
 
 ## Add Menu
 ![Alt Text](http://g.recordit.co/PmA8vLvft0.gif)
+Consists of adding plan mechanism, every plan added is saved into the array of struct.
 
 ## Edit Menu
 ![Alt Text](http://g.recordit.co/ShEaTCrui9.gif)
+Consists of edit plan mechanism, it works by calling the intended array of struct and edit the content.
 
 ## Delete Menu
 ![Alt Text](http://g.recordit.co/TloFMOMfI2.gif)
+Consists of delete plan mechanism, it works by reducing the count and moved the other plan into the deleted plan
 
 ## Display Menu
 ![Alt Text](http://g.recordit.co/kGDBowua0T.gif)
+Consists the code for displaying the plan, it is printed in tabular format and use loop to print all the plan
 
 ## Team
 * Ariq Mahira (1806187575)
