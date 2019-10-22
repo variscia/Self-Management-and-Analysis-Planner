@@ -8,6 +8,7 @@ This program is the answer to help your daily life structured and well-managed.
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Team](#team)
+* [References](#references)
 
 ## General Info
 This program use basic C language.
